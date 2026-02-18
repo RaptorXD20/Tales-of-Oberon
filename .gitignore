@@ -5,4 +5,7 @@
 !.gitignore
 !Assets/Script/**
 
+!README.md
+**/Library/**/README.md
+
 *.meta
